@@ -26,6 +26,9 @@ body {
     transition: background-color 0.3s ease;
 }
 
+.about {
+	text-align: center;
+}
 .cta-button:hover {
     background-color: #ff1493;
 }
@@ -54,6 +57,10 @@ section {
 
 .card:hover {
     transform: scale(1.05);
+}
+
+.newsletter {
+	text-align: center;
 }
 
 	.column {
